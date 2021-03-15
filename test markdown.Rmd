@@ -1,0 +1,14 @@
+---
+title: "Markdown_test"
+author: "Nico Koch"
+date: "15 März 2021"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Hallo Welt!
